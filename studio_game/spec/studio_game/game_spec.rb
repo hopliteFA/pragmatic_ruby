@@ -1,6 +1,6 @@
 module StudioGame
 
-  require_relative 'game'
+  require 'studio_game/game'
 
   describe Game do
 

@@ -1,5 +1,5 @@
 module StudioGame
-    require_relative 'berserk_player'
+    require 'studio_game/berserk_player'
 
     describe BerserkPlayer do
 
